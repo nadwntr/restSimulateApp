@@ -1,0 +1,13 @@
+package khovanets.restsimulateapp;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class RestSimulateAppTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
